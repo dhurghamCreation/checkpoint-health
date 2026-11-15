@@ -1,4 +1,4 @@
-# CHECKPOINT
+# CHECKPOINT https://checkpoint-7xjfao8e.manus.space
 
 CHECKPOINT is a **simulation-only, offline-first prototype** for a fictional Mars-transit crew. It is not a medical device, an operational mission system, a diagnosis, or a source of approved clinical guidance. Do not enter real personal or health information. All readings, thresholds, accounts, communications, checklists, and decisions require human review; the supplied source material in `reference/` is unverified, not an approved clinical procedure.
 
